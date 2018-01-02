@@ -8,6 +8,6 @@ Rules:
 
 What is Arduino?:
 
-  Arduino is an open sourced platfor that is used for making electronics projects. It is a programmable circuit board which can be controlled using the Arduino IDE, which you can find at arduino.cc/en/Main/Software. You can make nearly anything you want to, using LEDs, buttons, buzzers, resistors, light bars, and much more.
+  Arduino is an open sourced platform that is used for making electronics projects. It is a programmable circuit board which can be controlled using the Arduino IDE, which you can find at arduino.cc/en/Main/Software. You can make nearly anything you want to, using LEDs, buttons, buzzers, resistors, light bars, and much more.
 
   
